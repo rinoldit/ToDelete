@@ -1,4 +1,5 @@
 sample Readme file.
 CHECKING SECOND COMMIT
+Im in branch v.0.1.
+jusst expect conflict
 
-i'M IN Branch_V_0.2.
