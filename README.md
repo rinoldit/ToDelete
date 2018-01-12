@@ -1,3 +1,3 @@
 sample Readme file.
 CHECKING SECOND COMMIT
-Im in Branch_v_0.1 i accpect conflict
+Im in branch v.0.1.
